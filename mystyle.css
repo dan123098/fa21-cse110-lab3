@@ -1,0 +1,52 @@
+
+body{
+    background: rgb(209, 209, 209); /*change background color*/
+}
+
+h1 {
+    color: rgb(202, 112, 112);
+    font-size: 2vmax;
+    font-size: 4vh;
+    font-size: 2rem;
+    margin: 100px 40px 60px 50px;
+    padding: 100px 40px 60px 50px;
+    border-style: inherit;
+    border-color: red;
+    border-width: 100px;
+    border-radius: 10vmax;
+    display: inline;
+    font: tangerine;
+
+    
+}
+
+h2{
+    color: rgba(red, green, blue, alpha);
+    margin-left: 100px;
+    margin: 1in;
+    margin-bottom: 2cm;
+    margin-top: 100px;
+    padding-right: 50px;
+    display: block;
+    
+}
+
+h3{
+    color: blue;
+}
+p{
+    color: red;
+    text-decoration:saddlebrown;
+    text-align: center;
+}
+
+video{
+    position: static;
+
+}
+
+a:any-link {
+    border: 1px solid blue;
+    color: orange;
+    position: relative;
+  }
